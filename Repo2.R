@@ -1,3 +1,7 @@
+
+
+
+##### Hi Dr Peter
 library(mgcv);library(dlnm)
 Av7daytemp<-(datause2$meantlag0+datause2$meantlag1+datause2$meantlag2+datause2$meantlag3+datause2$meantlag4 +datause2$meantlag5+datause2$meantlag6+datause2$meantlag7)/8
 n
